@@ -15,3 +15,6 @@
 # vendor/
 go-http-nats-proxy
 dist/*
+
+# Ignoring the built binary
+proxy
